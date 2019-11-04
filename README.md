@@ -20,6 +20,7 @@ Higlights:
 	
 **HRM2:**
 	![Image_of_cyoa](https://raw.githubusercontent.com/Balint-H/Arduino-Weekends/master/sthetho.JPG)
+	
 	Interfaces with electronic sthethoscope. Denoises the 
 	signal, and displays heartrate on LCD screen.
 	--------------------------------------------------------
@@ -27,6 +28,7 @@ Higlights:
 	
 **CYOA and Code_writer:**
 	![Image_of_cyoa](https://raw.githubusercontent.com/Balint-H/Arduino-Weekends/master/CYOA.PNG)
+	
 	A choose your own adventure displayed on LCD, with 
 	turning pages, handling debounced button inputs, 
 	and several choices. Code_writer converts text 
